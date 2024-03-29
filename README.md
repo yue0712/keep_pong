@@ -17,7 +17,7 @@
 
 * 主畫面
 
-<img src='img/main.jpg' width='216' height='480'> 
+<img src='img/main.jpg' width='216' height='480'> <img src='img/gamemode.jpg' width='216' height='480'>
 
 * 選單
 
@@ -29,4 +29,4 @@
 
 * 不同模式
 
-<img src='img/gamemode.jpg' width='216' height='480'> <img src='img/gameplay3.jpg' width='216' height='480'> 
+<img src='img/gameplay4.jpg' width='216' height='480'>  <img src='img/gameplay3.jpg' width='216' height='480'>
